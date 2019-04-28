@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
-alembic==1.0.9            # via flask-migrate
+alembic==1.0.10            # via flask-migrate
 click==7.0                # via flask
 Flask-Migrate==2.4.0
 Flask-Script==2.0.6       # via flask-migrate
