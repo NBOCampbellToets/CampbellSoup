@@ -9,7 +9,7 @@ click==7.0                # via flask
 Flask-Migrate==2.5.2
 Flask-Script==2.0.6       # via flask-migrate
 Flask-SQLAlchemy==2.4.0     # via flask-migrate
-Flask==1.0.4             # via flask-migrate, flask-script, flask-sqlalchemy
+Flask==1.1.0             # via flask-migrate, flask-script, flask-sqlalchemy
 itsdangerous==1.1.0        # via flask
 Jinja2==2.10.1               # via flask
 Mako==1.0.13               # via alembic
