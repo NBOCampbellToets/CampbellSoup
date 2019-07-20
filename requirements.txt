@@ -12,7 +12,7 @@ Flask-SQLAlchemy==2.4.0     # via flask-migrate
 Flask==1.1.1             # via flask-migrate, flask-script, flask-sqlalchemy
 itsdangerous==1.1.0        # via flask
 Jinja2==2.10.1               # via flask
-Mako==1.0.13               # via alembic
+Mako==1.0.14               # via alembic
 MarkupSafe==1.1.1          # via jinja2, mako
 psycopg2==2.8.3
 py==1.8.0                # via pytest
