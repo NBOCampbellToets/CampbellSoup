@@ -6,22 +6,18 @@
 #
 alembic==0.8.8            # via flask-migrate
 click==6.6                # via flask
-Flask-Migrate==2.0.0
-Flask-Script==2.0.5       # via flask-migrate
-Flask-SQLAlchemy==2.1     # via flask-migrate
-Flask==0.11.1             # via flask-migrate, flask-script, flask-sqlalchemy
+flask-migrate==2.0.0
+flask-script==2.0.5
+flask-sqlalchemy==2.1
+flask==0.11.1
 itsdangerous==0.24        # via flask
-Jinja2==2.8               # via flask
-Mako==1.0.4               # via alembic
-MarkupSafe==0.23          # via jinja2, mako
+jinja2==2.8               # via flask
+mako==1.0.4               # via alembic
+markupsafe==0.23          # via jinja2, mako
 psycopg2==2.7.3.1
 py==1.4.34                # via pytest
 pyparsing==2.1.10
 pytest==3.2.3
 python-editor==1.0.1      # via alembic
-SQLAlchemy==1.0.15        # via alembic, flask-sqlalchemy
-Werkzeug==0.11.11         # via flask
-
-# The following packages are commented out because they are
-# considered to be unsafe in a requirements file:
-# setuptools                # via pytest
+sqlalchemy==1.0.15        # via alembic, flask-sqlalchemy
+werkzeug==0.15.3          # via flask
