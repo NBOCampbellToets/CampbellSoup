@@ -14,7 +14,7 @@ itsdangerous==1.1.0        # via flask
 Jinja2==2.11.1               # via flask
 Mako==1.1.2               # via alembic
 MarkupSafe==1.1.1          # via jinja2, mako
-psycopg2==2.8.4
+psycopg2==2.8.5
 py==1.8.1                # via pytest
 pyparsing==2.4.7
 pytest==5.4.1
