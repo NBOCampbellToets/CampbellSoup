@@ -6,7 +6,7 @@
 #
 alembic==1.5.5            # via flask-migrate
 click==7.1.2                # via flask
-Flask-Migrate==2.6.0
+Flask-Migrate==2.7.0
 Flask-Script==2.0.6       # via flask-migrate
 Flask-SQLAlchemy==2.4.4     # via flask-migrate
 Flask==1.1.2             # via flask-migrate, flask-script, flask-sqlalchemy
