@@ -18,7 +18,7 @@ flask-sqlalchemy==2.1
     # via
     #   -r requirements.in
     #   flask-migrate
-flask==0.11.1
+flask==1.0
     # via
     #   -r requirements.in
     #   flask-migrate
