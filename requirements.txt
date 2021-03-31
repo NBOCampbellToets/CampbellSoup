@@ -19,7 +19,7 @@ py==1.10.0                # via pytest
 pyparsing==2.4.7
 pytest==6.2.2
 python-editor==1.0.4      # via alembic
-SQLAlchemy==1.4.3        # via alembic, flask-sqlalchemy
+SQLAlchemy==1.4.4        # via alembic, flask-sqlalchemy
 Werkzeug==1.0.1         # via flask
 
 # The following packages are commented out because they are
