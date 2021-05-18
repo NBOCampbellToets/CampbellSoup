@@ -13,7 +13,7 @@ Flask==2.0.0             # via flask-migrate, flask-script, flask-sqlalchemy
 itsdangerous==2.0.1        # via flask
 Jinja2==3.0.0               # via flask
 Mako==1.1.4               # via alembic
-MarkupSafe==2.0.0          # via jinja2, mako
+MarkupSafe==2.0.1          # via jinja2, mako
 psycopg2==2.8.6
 py==1.10.0                # via pytest
 pyparsing==2.4.7
