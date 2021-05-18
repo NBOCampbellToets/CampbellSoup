@@ -20,7 +20,7 @@ pyparsing==2.4.7
 pytest==6.2.4
 python-editor==1.0.4      # via alembic
 SQLAlchemy==1.4.15        # via alembic, flask-sqlalchemy
-Werkzeug==2.0.0         # via flask
+Werkzeug==2.0.1         # via flask
 
 # The following packages are commented out because they are
 # considered to be unsafe in a requirements file:
